@@ -10,7 +10,7 @@ function setup() {
   wall = createSprite(720, 200, 60, height/2)
   wall.shapeColor = "rgb(80, 80, 80)"
 
-speed = random(20, 50)
+speed = random(55, 90)
 weight = random(400, 1500)
 
 car.velocityX = speed
